@@ -14,3 +14,13 @@ I'm a paragraph
 This is another paragraph. With an example of *emphasis* blah.
 
 Hello paragraph!
+
+#### Ingredients
+- Hydrochloric acid, 2000 mL
+- Two hazelnuts, crushed
+- Giant radish, toasted
+- Blah stuff
+
+#### Method
+1. Cook until yummy
+2. Eat until happy
