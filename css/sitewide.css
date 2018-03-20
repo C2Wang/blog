@@ -33,6 +33,10 @@ body {
 	color: #222;
 }
 
+h1 {
+	font-size: 40px;
+}
+
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 
 	If you have more than one container, you are probably doing
@@ -47,5 +51,31 @@ body {
 	max-width: 1200px;
 	padding: 2em;
 	border: 5px solid #eee;
+	background-color: #94FFF3;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
+.box {
+	grid-column: 1/2;
+	min-height: auto; 
+	font-size: 16px;
+	background-color: #D7FFF3;	
+}
+
+.box-title {
+	color: white;
+	background-color: #D7FFF3;
+	grid-column: 1 / 6;
+	font-size: 40px;
+	min-height: auto;
+	padding-left: 1.25em;
+	padding-right: 1em;
+}
+
+.box-blog {
+	grid-column: 2 / 5;
+	min-height: auto; 
+	font-size: 16px;
+	background-color: #D7FFF3;	
+}
