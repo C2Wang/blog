@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
 
@@ -12,7 +12,9 @@
 
 	<!-- Load styles -->
 	<!-- For production, combine all of the stylesheets -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css">
+	<!--<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css"> -->
+	<link rel="stylesheet" href="../css/sitewide.css">
+
 	
 	<!-- pull in webfonts -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
@@ -26,13 +28,17 @@
 
         <p><a href="{{ site.url }}{{ site.baseurl }}">Home</a></p>
 
-	<!-- <h1>{{ page.title }}</h1> -->
+         <div class="box box-title">
+        	<!-- <h1>{{ page.title }}</h1> -->
+    	</div>
 
-        {% if page.date %}
+        <div class="box box-blog">
+        	{% if page.date %}
     		<p>{{ page.date | date: "%A, %B %-d, %Y" }}</p>
-        {% endif %}
+       		{% endif %}
 
-        {{ content }}
+ 	       {{ content }}
+    	</div>
 
 	</div><!-- end container -->
 	
