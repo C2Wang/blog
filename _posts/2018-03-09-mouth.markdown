@@ -4,4 +4,6 @@ title: "Giant mouth on this fish"
 
 Here's a fish with a giant mouth!
 
+<img src="/blog/img/Basking-Shark-3-640x425.jpg" alt="fish with big mouth">
+
 [Page with fish mouth!!!](https://www.scubadiving.com/fun-facts-about-basking-sharks)
