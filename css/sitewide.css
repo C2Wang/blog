@@ -65,6 +65,7 @@ h1 {
 
 .box-title {
 	color: black;
+	text-align: center;
 	background-color: #94FFF3;
 	grid-column: 1 / 6;
 	font-size: 40px;
