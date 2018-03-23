@@ -31,16 +31,16 @@
 
         {{ body }}
 
-	{% for post in site.posts %}
-        <div class="box box-blog">      
+      	{% for post in site.posts %}
+        <div class="box box-blog">
         	<article>
         		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+        		<img src="{{post.image}}">
         		<p align="right">{{ post.date | date: "%A, %B %-d, %Y" }}</p>
         		{{ post.teaser }}        
         	</article>
         </div>
         {% endfor %}
-
 
 	</div><!-- end container -->
 	
