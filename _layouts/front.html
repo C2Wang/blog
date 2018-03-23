@@ -31,8 +31,8 @@
 
         {{ body }}
 
-        {% for post in site.posts %}
         <div class="box box-blog">
+        	{% for post in site.posts %}
         	<article>
         		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
         		<p align="right">{{ post.date | date: "%A, %B %-d, %Y" }}</p>
