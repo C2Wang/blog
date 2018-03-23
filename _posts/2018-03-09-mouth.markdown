@@ -1,5 +1,6 @@
 ---
 title: "Giant mouth on this fish"
+image: /blog/img/Basking-Shark-3-640x425.jpg
 ---
 # Big mouth fish
 Here's a fish with a giant mouth!
