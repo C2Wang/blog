@@ -24,16 +24,21 @@
 	<!-- In general, you should have only one container per page. -->
 	<div class="container">
 
-        <h1>{{ site.title }}</h1>
+        <div class="box box-title">
+        	<h1>{{ site.title }}</h1>
+        </div>
+
 
         {{ body }}
 
         {% for post in site.posts %}
+        <div class="box box-blog">
         	<article>
         		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
         		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
         		{{ post.teaser }}        
         	</article>
+        </div>
         {% endfor %}
 
 
