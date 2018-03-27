@@ -1,5 +1,6 @@
 ---
 title: "Test"
+image: /blog/img/test.png
 ---
 
 Test post.
