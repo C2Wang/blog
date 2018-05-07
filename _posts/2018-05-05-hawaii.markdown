@@ -5,6 +5,6 @@ image: /blog/img/1024x1024.jpg
 # Hawaii volcano eruption
 I hope everyone gets out in one piece. 
 
-<img src="/blog/img/1024x1024.jpg" alt="fish with big mouth">
+<img src="/blog/img/1024x1024.jpg" alt="lava field">
 
 [CNN article](https://www.cnn.com/2018/05/07/us/hawaii-kilauea-volcano/index.html)
