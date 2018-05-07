@@ -2,9 +2,9 @@
 title: "The Basking Shark!"
 image: /blog/img/Basking-Shark-3-640x425.jpg
 ---
-# Big mouth fish
-Here's a fish with a giant mouth!
+# One big mouth
+The basking shark's mouth is huge!
 
 <img src="/blog/img/Basking-Shark-3-640x425.jpg" alt="fish with big mouth">
 
-[Page with fish mouth!!!](https://www.scubadiving.com/fun-facts-about-basking-sharks)
+[Learn more about the basking shark!](https://www.scubadiving.com/fun-facts-about-basking-sharks)
