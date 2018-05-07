@@ -1,1 +1,10 @@
+---
+title: "Virus evolution"
+image: /blog/img/virus.jpg
+---
+# Virus evolution
+Why nature? 
 
+<img src="/blog/img/virus.jpg" alt="lava field">
+
+[CNN article](https://www.cnn.com/2018/05/07/health/htlv-1-virus-australia-explainer/index.html)
