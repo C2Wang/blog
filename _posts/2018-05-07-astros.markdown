@@ -1,0 +1,10 @@
+---
+title: "Go 'Stros!"
+image: /blog/img/astros.jpg
+---
+# Go 'Stros!
+Astros are on a roll! 
+
+<img src="/blog/img/astros.jpg" alt="Altuve">
+
+[Chron Article](https://www.chron.com/sports/article/Cole-fans-career-high-16-in-1-hitter-Astros-rout-12889930.php#photo-15507425)
